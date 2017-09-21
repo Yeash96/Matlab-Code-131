@@ -1,0 +1,6 @@
+Hello,
+
+I noticed that on the homework the 5 point centered difference formula is divided by '2*h'. In the textbook it was divided by '12*h'. The code I have written also seems to refelct this since I get a gragh that seems to be incorrect when using '2*h' but correct when using '12*h'.
+
+your student,
+Yeash Patel   
